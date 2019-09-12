@@ -1,0 +1,5 @@
+name: tf_serving
+dependencies:
+  - tensorflow=1.9
+  - flask
+  - requests
