@@ -3,3 +3,4 @@ dependencies:
   - tensorflow=1.9
   - flask
   - requests
+  - gunicorn
