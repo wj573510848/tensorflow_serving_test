@@ -13,6 +13,7 @@ ubuntu 16.04
 
 ```shell
 conda env create --file=environment.yml
+conda activate tf_serving
 ```
 
 
